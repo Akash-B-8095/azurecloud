@@ -7,6 +7,7 @@ def main():
     try:
         # Flag to show citations
         show_citations = False
+        
         # Get configuration settings 
         load_dotenv()
         azure_oai_endpoint = os.getenv("AZURE_OAI_ENDPOINT")
