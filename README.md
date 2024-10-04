@@ -40,7 +40,7 @@ Iterate Based on Feedback: Regularly update your dataset and refine prompts or m
 Data Privacy: Implement data protection measures to comply with relevant regulations (e.g., GDPR).
 Security Measures: Use Azure Security Center to monitor and enhance the security of your Azure resources.
 
-# Example Architecture
+## Example Architecture
   Here's a high-level architecture for a typical Azure AI solution using your own data:
 
 a) User Interface: Web or mobile application
@@ -49,5 +49,5 @@ c) Data Storage: Azure Blob Storage for unstructured data, Azure SQL Database fo
 d) Azure OpenAI Service: Access to the AI model
 e) Monitoring: Azure Monitor for tracking and logging
 
-Conclusion
+## Conclusion
 By following these steps, you can effectively design and implement a Microsoft Azure AI solution that leverages your own data with Azure OpenAI. Each step can be customized based on your specific requirements and the complexity of your use case. If you have any specific scenarios or questions, feel free to ask!
