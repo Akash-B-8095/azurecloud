@@ -1,6 +1,8 @@
 # azurecloud
 
-Designing and implementing a Microsoft Azure AI solution using your own data with Azure OpenAI involves several structured steps. Here’s a guide to help you through the process:
+Designing and implementing a Microsoft Azure AI solution using your own data with Azure OpenAI involves several structured steps. 
+
+Here’s a guide to help you through the process:
 
 1. Define Your Use Case
 Identify Objectives: Determine what you want to achieve with the AI solution (e.g., customer support, content generation, data analysis).
