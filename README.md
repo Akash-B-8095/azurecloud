@@ -40,7 +40,7 @@ Iterate Based on Feedback: Regularly update your dataset and refine prompts or m
 Data Privacy: Implement data protection measures to comply with relevant regulations (e.g., GDPR).
 Security Measures: Use Azure Security Center to monitor and enhance the security of your Azure resources.
 
-#Example Architecture
+# Example Architecture
   Here's a high-level architecture for a typical Azure AI solution using your own data:
 
 a) User Interface: Web or mobile application
